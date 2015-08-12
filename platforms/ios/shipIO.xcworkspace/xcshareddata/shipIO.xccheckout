@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>B564A17A-5F4E-4A22-AFB8-E8844AFFC0CF</string>
+	<string>AA6EF2C8-CDC2-4B01-9737-5FF2A012362D</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Untitled</string>
+	<string>shipIO</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>3BB650A1C4C67D1579657FB4D0F09961C9255E71</key>
 		<string>https://github.com/masterqz/myApp.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>platforms/ios/Untitled.xcworkspace</string>
+	<string>platforms/ios/shipIO.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>3BB650A1C4C67D1579657FB4D0F09961C9255E71</key>
