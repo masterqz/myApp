@@ -7,3 +7,6 @@
 2015-08-12 14:47:50.779 [myApp][8872:374311] [CDVTimer][TotalPluginStartup] 1.026988ms
 2015-08-12 14:47:51.462 [myApp][8872:374311] Resetting plugins due to page load.
 2015-08-12 14:47:52.178 [myApp][8872:374311] Finished load of: file:///Users/Vadik/Library/Developer/CoreSimulator/Devices/119B8D3B-8001-4E8D-ADDC-024A7168DEDB/data/Containers/Bundle/Application/C5FDA215-438D-4290-8D06-C9C68B6BA653/%5BmyApp%5D.app/www/index.html#/menu
+2015-08-12 15:47:46.733 [myApp][8872:455919] Communications error: <OS_xpc_error: <error: 0x2d415f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2d4183c> { length = 22, contents = "Connection interrupted" }
+}>
